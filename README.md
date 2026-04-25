@@ -54,12 +54,6 @@ Example:
 - Learning front-end web development basics  
 
 ---
-# 📷 Interface Preview
-
-![Interface Preview](images/interface.png)
-
-![Search Example](images/usage.png)
-
 
 ## 📁 Project Structure
 
@@ -69,3 +63,15 @@ Wikipedia-Search-Website/
 │── style.css
 │── script.js
 │── images/
+
+---
+
+# 📷 Interface Preview
+
+![Interface Preview](images/interface.png)
+
+![Search Example](images/usage.png)
+
+
+
+        
