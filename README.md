@@ -56,9 +56,9 @@ Example:
 ---
 # 📷 Interface Preview
 
-(images/interface.png)
+![Interface Preview](images/interface.png)
 
-(images/usage.png)
+![Search Example](images/usage.png)
 
 
 ## 📁 Project Structure
