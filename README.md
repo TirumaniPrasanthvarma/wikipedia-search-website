@@ -2,15 +2,15 @@
 
 ## 📌 Project Overview
 
-This project is a simple **Wikipedia Search Website** built using **HTML, CSS, and JavaScript**. It allows users to search any topic and directly view related Wikipedia content in a clean and easy-to-use interface.
+This project is a simple **Wikipedia Search Website** built using **HTML, CSS, and JavaScript**. It allows users to search any topic and directly access related Wikipedia pages through a clean and user-friendly interface.
 
-The project was created as a practical learning exercise and also to help students quickly find educational information online.
+The project was created as a practical front-end learning project and also as an educational tool for students to quickly search information online.
 
 ---
 
 ## 🎯 Objective
 
-The main objective of this project was to build a functional search website that fetches useful content directly from Wikipedia, making it easier for users to access information instantly.
+The main objective of this project was to build a lightweight search website that helps users instantly access Wikipedia content by entering any keyword.
 
 ---
 
@@ -26,7 +26,7 @@ The main objective of this project was to build a functional search website that
 
 ✔ Clean and simple user interface  
 ✔ Search any topic instantly  
-✔ Redirects to relevant Wikipedia page  
+✔ Redirects to relevant Wikipedia pages  
 ✔ Fast and lightweight design  
 ✔ Beginner-friendly project structure  
 ✔ Responsive search layout  
@@ -37,11 +37,11 @@ The main objective of this project was to build a functional search website that
 
 1. User enters a keyword in the search bar  
 2. Clicks the **Search** button  
-3. The website opens the related Wikipedia page or search results instantly
+3. The website opens the related Wikipedia page or search results instantly  
 
-Example:
+### Example:
 
-- Search `Facebook`
+- Search `Facebook`  
 - Redirects to Facebook Wikipedia page
 
 ---
@@ -55,23 +55,26 @@ Example:
 
 ---
 
+## 📷 Interface Preview
+
+### 🖥️ Homepage Interface
+
+![Homepage Interface](images/interface.png)
+
+### 🔎 Search Example
+
+![Search Example](images/usage.png)
+
+---
+
 ## 📁 Project Structure
 
 ```text
-Wikipedia-Search-Website/
+wikipedia-search-website/
 │── index.html
 │── style.css
 │── script.js
 │── images/
-
----
-
-# 📷 Interface Preview
-
-![Interface Preview](images/interface.png)
-
-![Search Example](images/usage.png)
-
-
-
-        
+│   ├── interface.png
+│   └── usage.png
+│── README.md
